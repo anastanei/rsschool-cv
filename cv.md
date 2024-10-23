@@ -48,7 +48,7 @@ const countBits = (n) => n.toString(2).split('0').join('').length;
 *Management in an Innovative Economy. Socio-Economic Project Planning*  
 *2016 - 2017*
 
-### Petrozovodsk State University
+### Petrozavodsk State University
 
 **Bachelor of Information Technology**  
 *Pursued from 2012 - 2015*
