@@ -9,7 +9,7 @@
 
 ## About
 
-I first encountered programming during my school and university studies, but afterward, I worked in completely different fields. A couple of years ago, I had the chance to try my hand at web development, and now I’m looking to learn more about quality coding. The structure and logic behind code appeal to me, and I enjoy the learning process, especially in the supportive atmosphere at RS School.
+I first encountered programming during my school and university studies, but afterward, I worked in completely different fields. A couple of years ago, I had the chance to try my hand at web development, and now I’m looking to learn more about quality coding. The structure and logic behind code appeal to me, and I enjoy the learning process, especially in the supportive atmosphere of RS School.
 
 Finding a job one day would help cover my cat's plane tickets and vet bills, but maintaining realistic expectations is essential, so I’m focusing on studying as much as I can for now.
 
